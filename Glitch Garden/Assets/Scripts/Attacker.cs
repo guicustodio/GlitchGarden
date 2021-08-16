@@ -5,7 +5,7 @@ using UnityEngine;
 public class Attacker : MonoBehaviour
 {
     [Range (0f, 4f)]
-    float currentSpeed = 1f;
+    [SerializeField] float currentSpeed = 0.1f;
 
     void Update()
     {
