@@ -25,7 +25,7 @@ public class DefenderSpawner : MonoBehaviour
             StarDisplay.SpendStars(defenderCost);
         }
         //if we have enough stars
-            //spawn de defender
+            //spawn the defender
             //spend the stars
 
     }
