@@ -20,7 +20,8 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 0}
+      value: {fileID: 7527401686257822748, guid: 82a9012302610cf49b29677c56af6937,
+        type: 3}
     - time: 0.016666668
       value: {fileID: 8189650667827876979, guid: ece33feeca38a7f4aa1d6917b756d817,
         type: 3}
@@ -76,7 +77,7 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 0}
+    - {fileID: 7527401686257822748, guid: 82a9012302610cf49b29677c56af6937, type: 3}
     - {fileID: 8189650667827876979, guid: ece33feeca38a7f4aa1d6917b756d817, type: 3}
     - {fileID: -5447189599148108117, guid: ece33feeca38a7f4aa1d6917b756d817, type: 3}
     - {fileID: 2411212283926625588, guid: ece33feeca38a7f4aa1d6917b756d817, type: 3}
@@ -118,6 +119,6 @@ AnimationClip:
     functionName: SetMovementSpeed
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 3
+    floatParameter: 1
     intParameter: 0
     messageOptions: 0
